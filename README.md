@@ -115,8 +115,8 @@
 <br/>
 <br/>
 
-👉 **LinkedIn**: [Access Here](https://www.linkedin.com/in/matheusaugsantos/)
+👉 **LinkedIn**: [Access Here](https://www.linkedin.com/in/adammo-s-7ab387157/)
 
-🔗 **Portfólio**: [Access Here](https://www.canva.com/design/DAGDSZPC7Lo/4rhcjoGPwarro2NvRnwv4Q/edit?utm_content=DAGDSZPC7Lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔗 **Portfólio**: [Access Here](https://adammgamedev.itch.io/)
 
 ![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)
