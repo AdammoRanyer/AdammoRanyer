@@ -1,7 +1,7 @@
 ## Hello, I'm Adamm! 👋
 
 - 🎮 I’m currently working on Recycle Quest ♻️ is an fun Sokoban-style puzzle game!
-- 🌱 Studying : Unity 6, C#, Pixel art
+- 🌱 Studying : Unity 6, C#
 - 😉 Pronouns : he/him
 
 <p align="left">
