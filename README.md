@@ -93,7 +93,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AdammoRanyer&show_icons=true&theme=merko&include_all_commits=true&locale=en" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
